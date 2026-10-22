@@ -1,0 +1,6 @@
+# Local IDE configuration
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
